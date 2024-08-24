@@ -1,8 +1,8 @@
 body {
-  background-image: url(https://images.unsplash.com/photo-1717667745836-145a38948ebf?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Z2FyYmFnZSUyMHRydWNrfGVufDB8fDB8fHww);
+  background-image: url(https://walrus-assets.s3.amazonaws.com/img/garbage.jpg);
   background-position: center;
   background-size: cover;
-  font-family: sans-serif;
+  font-family: 'Times New Roman', serif;
   padding: 20px;
 }
 img {
@@ -14,21 +14,26 @@ img {
 }
 h1 {
   text-align: center;
+  color: black;
+  font-size: 50px;
 }
 p {
   width: 80%;
-  background-color: rgba(255,255,255,0.6);
+  background-color: rgba(253,218,176,0.6);
   margin-left: auto;
   margin-right: auto;
   padding: 20px;
   max-width: 500px;
   text-align: center;
+  color: black;
+  font-size: 20px;
 }
 .menu {
   width: 80%;
-  background-color: rgba(255,255,255,0.6);
+  background-color: rgba(253,218,176,1);
   margin-left: auto;
   margin-right: auto;
   padding: 20px;
   max-width: 500px;
+  color: black;
 }
