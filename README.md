@@ -1,2 +1,2 @@
 # WebProjects
-This repository is dedicate to catalog my solution for the FreeCodeCamp responsive web design certification 
+This repository is dedicate to catalog my solutions for the FreeCodeCamp responsive web design certification 
