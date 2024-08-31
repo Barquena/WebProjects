@@ -1,3 +1,2 @@
-[Page preview](https://html-preview.github.io/?url=https://github.com/Barquena/WebProjects/blob/main/Rothko%20painting/index.htmll)
+[Page preview](https://html-preview.github.io/?url=https://github.com/Barquena/WebProjects/blob/main/Rothko%20painting/index.html)
 
-https://github.com/Barquena/WebProjects/blob/main/Rothko%20painting/index.html
